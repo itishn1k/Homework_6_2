@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework_6_2</string>
+    <string name="ololo">ololo</string>
+    <string name="image_preview_in_gallery">image in gallery</string>
+    <string name="choose_photos">Choose photos</string>
+    <string name="share_button">share button</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="app_requires_permission">This app requires access to your device\'s external storage to function properly. Please grant the permission to continue.</string>
+    <string name="grant">Grant</string>
+    <string name="cancel">Cancel</string>
+</resources>

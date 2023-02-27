@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/action_bar_height"
+    android:background="?attr/colorOnPrimary">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/rubik_bold"
+        android:text="@string/choose_photos"
+        android:textAlignment="center"
+        android:textSize="@dimen/action_bar_ts" />
+
+    <ImageView
+        android:id="@+id/btn_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|center_vertical"
+        android:layout_marginHorizontal="@dimen/btn_margin"
+        android:background="@drawable/baseline_share_24"
+        android:backgroundTint="@color/gray"
+        android:contentDescription="@string/share_button"
+        android:visibility="gone" />
+
+</FrameLayout>

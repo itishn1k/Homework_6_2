@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_corner_radius">12dp</dimen>
+    <dimen name="image_h_and_w">108dp</dimen>
+    <dimen name="image_margin">8dp</dimen>
+    <dimen name="action_bar_ts">18sp</dimen>
+    <dimen name="action_bar_height">56dp</dimen>
+    <dimen name="btn_margin">24dp</dimen>
+</resources>
